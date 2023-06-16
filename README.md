@@ -1,5 +1,5 @@
 ### Front-end developer
-## Contacts
+#### Contacts
 [Telegram](https://t.me/gnom_gnomych)
 <!--
 **OneTwoName/OneTwoName** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
